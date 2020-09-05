@@ -1,10 +1,9 @@
 <resources>
     <!-- Base application theme. -->
+<!--  TODO: theme parent not working just yet. I think this has to do with me commenting out the app compat module in build.gradle -->
 <!--    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
 <!--        &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
-<!--        <item name="colorPrimary">@color/colorPrimary</item>-->
-<!--        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
-<!--        <item name="colorAccent">@color/colorAccent</item>-->
+<!--        <item name="android:textColorPrimary">@color/colorPrimary</item>-->
 <!--    </style>-->
 
 </resources>
