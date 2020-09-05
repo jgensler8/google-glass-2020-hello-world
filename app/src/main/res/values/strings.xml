@@ -2,4 +2,6 @@
     <string name="app_name">glass2</string>
     <string name="demo_time">take a break</string>
     <string name="greet_message">Hello World</string>
+    <string name="item_1">item_1</string>
+    <string name="item_2">item_2</string>
 </resources>
